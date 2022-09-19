@@ -3,5 +3,5 @@
 
 - 👜 Atualmente trabalhando como Analista de testes e Qualidade de Software(QA) na indra;
 - 👨‍🎓 Estudando Engenharia da Computação 2°semestre;
-- 💻 Estudando Java Script;
-- 💻 Iniciando Automação de Testes com Cypress;
+- 💻 Conhecimento na linguagem Java Script;
+- 💻 Estudando Java e Automação de Testes;
