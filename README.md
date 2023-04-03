@@ -1,7 +1,7 @@
-### Olá eu sou Rodrigo Valentim, seja bem vindo(a) ao meu perfil 😁
+# Olá eu sou Rodrigo Valentim, seja bem vindo(a) ao meu perfil 😁
 
 
 - 👜 Atualmente trabalhando como Analista de testes e Qualidade de Software(QA) na indra;
-- 👨‍🎓 Estudando Engenharia da Computação 2°semestre;
-- 💻 Conhecimento na linguagem Java Script;
-- 💻 Estudando Java e Automação de Testes;
+- 👨‍🎓 Estudando Tecnologia da Informação;
+- 💻 Conhecimento na linguagem Java e JavaScript;
+- 💻 Estudando Automação de Testes Web e APIs;
