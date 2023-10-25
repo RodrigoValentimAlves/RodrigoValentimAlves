@@ -4,4 +4,4 @@
 - 👜 Analista de testes e Qualidade de Software(QA) na indra;
 - 👨‍🎓 Graduando Tecnologia da Informação;
 - 💻 Conhecimento nas linguagens Java e JavaScript;
-- 💻 Estudando Automação de Testes Web e APIs;
+- 💻 Automação de Testes Web e APIs;
