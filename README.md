@@ -1,10 +1,10 @@
 <h2 align="left">Hi 👋! My name is Rodrigo Valentim and I'm a Software Quality Assurance Analyst 💻</h2>
 
 ###
-- 👨‍🎓 Graduando Tecnologia da Informação;
-- 💻 Conhecimento nas linguagens Java e JavaScript;
-- 💻 Automação de Testes Web e APIs;
-- 💻 Frameworks Selenium, RestAssured e Cypress
+<h4 align="center"> 👨‍🎓 Graduando Tecnologia da Informação </h4>
+<h4 align="center">💻 Conhecimento nas linguagens Java e JavaScript</h4>
+<h4 align="center">💻 Automação de Testes Web e APIs;</h4>
+<h4 align="center">💻 Frameworks Selenium, RestAssured e Cypress</h4>
 
 
 <div align="center">
@@ -36,20 +36,4 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rodrigo-valentim-qa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
-
-<img src="https://raw.githubusercontent.com/RodrigoValentimAlves/RodrigoValentimAlves/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
