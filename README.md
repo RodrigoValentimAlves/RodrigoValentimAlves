@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Rodrigo Valentim and I'm a Software Quality Assurance Analyst 💻</h2>
+<h2 align="left">Olá 👋! Meu nome é Rodrigo Valentim, sou Analista de Testes e Qualidade de Software 💻</h2>
 
 ###
-<h4 align="center"> 👨‍🎓 Graduando Tecnologia da Informação </h4>
+<h4 align="center"> 👨‍🎓 Graduado em Tecnologia da Informação </h4>
 <h4 align="center">💻 Conhecimento nas linguagens Java e JavaScript</h4>
 <h4 align="center">💻 Automação de Testes Web e APIs;</h4>
-<h4 align="center">💻 Frameworks Selenium, RestAssured e Cypress</h4>
+<h4 align="center">💻 Frameworks Selenium, RestAssured, Postman e Cypress</h4>
 
 
 <div align="center">
